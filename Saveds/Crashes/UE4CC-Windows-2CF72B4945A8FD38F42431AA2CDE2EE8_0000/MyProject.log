@@ -1,0 +1,1057 @@
+﻿Log file open, 07/16/18 13:18:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1133300808) SRandInit(-1133300808).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.421875
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  5.471s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-S9MSIHM (192.168.1.192:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: G:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.015s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.16-11.18.17:862][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.16-11.18.17:862][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.16-11.18.17:991][  0]LogInit: Computer: DESKTOP-S9MSIHM
+[2018.07.16-11.18.17:991][  0]LogInit: User: Yoan
+[2018.07.16-11.18.17:991][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.16-11.18.17:991][  0]LogInit: High frequency timer resolution =3.906169 MHz
+[2018.07.16-11.18.17:997][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.07.16-11.18.17:998][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.16-11.18.17:998][  0]LogMemory: Process Physical Memory: 279.10 MB used, 279.10 MB peak
+[2018.07.16-11.18.17:998][  0]LogMemory: Process Virtual Memory: 269.33 MB used, 269.33 MB peak
+[2018.07.16-11.18.17:998][  0]LogMemory: Physical Memory: 4957.09 MB used,  11391.16 MB free, 16348.25 MB total
+[2018.07.16-11.18.17:998][  0]LogMemory: Virtual Memory: 4839.31 MB used,  11391.16 MB free, 134217728.00 MB total
+[2018.07.16-11.18.18:881][  0]LogInit: Using OS detected language (fr-FR).
+[2018.07.16-11.18.18:881][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.07.16-11.18.19:146][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.07.16-11.18.20:161][  0]LogStreaming: Display: Took  1.278s to EndInitTextLocalization.
+[2018.07.16-11.18.20:188][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.16-11.18.21:245][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.16-11.18.21:245][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.16-11.18.24:439][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.16-11.18.24:507][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_0)
+[2018.07.16-11.18.24:508][  0]LogD3D11RHI:       8137/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x1002
+[2018.07.16-11.18.24:510][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.16-11.18.24:510][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.16-11.18.24:510][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.16-11.18.24:536][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.16-11.18.24:537][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2018.07.16-11.18.24:537][  0]LogWindows: EnumDisplayDevices:
+[2018.07.16-11.18.24:537][  0]LogWindows:    0. 'Radeon (TM) RX 480 Graphics' (P:1 D:1)
+[2018.07.16-11.18.24:537][  0]LogWindows:    1. 'Radeon (TM) RX 480 Graphics' (P:0 D:1)
+[2018.07.16-11.18.24:537][  0]LogWindows:    2. 'Radeon (TM) RX 480 Graphics' (P:0 D:1)
+[2018.07.16-11.18.24:537][  0]LogWindows:    3. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:538][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:538][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:538][  0]LogWindows:    6. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:538][  0]LogWindows:    7. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:538][  0]LogWindows:    8. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:539][  0]LogWindows:    9. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:539][  0]LogWindows:    10. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:539][  0]LogWindows:    11. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:539][  0]LogWindows:    12. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:539][  0]LogWindows:    13. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:540][  0]LogWindows:    14. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:540][  0]LogWindows:    15. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.16-11.18.24:540][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.16-11.18.24:540][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 480 Graphics
+[2018.07.16-11.18.24:540][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.16-11.18.24:540][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.16-11.18.24:540][  0]LogRHI: Texture pool is 5695 MB (70% of 8137 MB)
+[2018.07.16-11.18.24:798][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.16-11.18.25:064][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.07.16-11.18.25:167][  0]LogShaderCompilers: Guid format shader working directory is 23 characters bigger than the processId version (../../../../KarotteReup/Intermediate/Shaders/WorkingDirectory/588/).
+[2018.07.16-11.18.25:174][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yoan/AppData/Local/Temp/UnrealShaderWorkingDir/B454B0EE42BF474A3EA8EEA7B2540D6C/'.
+[2018.07.16-11.18.26:847][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.16-11.18.26:869][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.16-11.18.26:892][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.16-11.18.26:914][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.16-11.18.26:966][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.16-11.18.26:988][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.16-11.18.27:009][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.16-11.18.27:031][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.16-11.18.27:042][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.16-11.18.27:061][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.16-11.18.27:081][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.16-11.18.27:102][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.16-11.18.27:121][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.16-11.18.27:141][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.16-11.18.27:160][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.16-11.18.27:199][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.16-11.18.27:199][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.16-11.18.27:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.16-11.18.27:232][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.16-11.18.27:377][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.16-11.18.27:416][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.16-11.18.27:442][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.16-11.18.27:467][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.16-11.18.27:488][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.16-11.18.27:525][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.16-11.18.27:525][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.16-11.18.28:601][  0]LogXGEController: Cleaning working directory: C:/Users/Yoan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.16-11.18.28:601][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.16-11.18.28:620][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.16-11.18.28:620][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.16-11.18.32:040][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.16-11.18.32:480][  0]LogDerivedDataCache: Loaded boot cache 0.44s 88MB C:/Users/Yoan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.16-11.18.32:480][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yoan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.16-11.18.32:480][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../KarotteReup/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.16-11.18.32:480][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.16-11.18.32:480][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../KarotteReup/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.16-11.18.32:480][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.16-11.18.32:571][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.16-11.18.32:584][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yoan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.16-11.18.32:584][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.16-11.18.32:584][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.16-11.18.32:651][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.16-11.18.32:716][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.16-11.18.32:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.16-11.18.32:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.16-11.18.40:119][  0]LogAssetRegistry: FAssetRegistry took 0.0583 seconds to start up
+[2018.07.16-11.18.44:196][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.16-11.18.45:846][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.16-11.18.45:898][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.16-11.18.45:908][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.16-11.18.45:908][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.16-11.18.45:908][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.16-11.18.45:908][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.16-11.18.46:621][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2018.07.16-11.18.51:537][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.082374 seconds
+[2018.07.16-11.18.51:565][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.16-11.18.51:565][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.16-11.18.51:565][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.16-11.19.15:945][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.16-11.19.15:985][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.16-11.19.17:089][  0]SourceControl: Source control is disabled
+[2018.07.16-11.19.17:089][  0]SourceControl: Source control is disabled
+[2018.07.16-11.19.17:121][  0]SourceControl: Source control is disabled
+[2018.07.16-11.19.17:152][  0]SourceControl: Source control is disabled
+[2018.07.16-11.19.18:231][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.16-11.19.18:550][  0]LogOcInput: OculusInput pre-init called
+[2018.07.16-11.19.19:257][  0]LogEngine: Initializing Engine...
+[2018.07.16-11.19.20:224][  0]LogHMD: SteamVR initialized.  Driver: holographic  Display: WindowsHolographic
+[2018.07.16-11.19.20:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.16-11.19.20:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.16-11.19.21:675][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.16-11.19.21:965][  0]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.19.22:018][  0]LogInit: FAudioDevice initialized.
+[2018.07.16-11.19.22:191][  0]LogDerivedDataCache: Saved boot cache 0.15s 88MB C:/Users/Yoan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.16-11.19.22:293][  0]LogInit: Texture streaming: Enabled
+[2018.07.16-11.19.22:391][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.16-11.19.22:517][  0]LogInit: Transaction tracking system initialized
+[2018.07.16-11.19.22:919][  0]BlueprintLog: New page: Editor Load
+[2018.07.16-11.19.26:963][  0]LocalizationService: Localization service is disabled
+[2018.07.16-11.19.33:014][  0]LogConsoleResponse: Display: 
+[2018.07.16-11.19.35:451][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.16-11.19.35:452][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.16-11.19.35:452][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.16-11.19.35:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.16-11.19.35:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.16-11.19.35:867][  0]LogFileCache: Scanning file cache for directory 'G:/KarotteReup/Content/' took 0.04s
+[2018.07.16-11.19.37:694][  0]SourceControl: Source control is disabled
+[2018.07.16-11.19.37:730][  0]Cmd: MAP LOAD FILE="../../../../KarotteReup/Content/Menu/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.16-11.19.37:807][  0]LightingResults: New page: Lighting Build
+[2018.07.16-11.19.37:935][  0]MapCheck: New page: Map Check
+[2018.07.16-11.19.37:935][  0]LightingResults: New page: Lighting Build
+[2018.07.16-11.19.39:101][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c92da69b0, Size=16, Default__MenuHUD_C Function /Game/Menu/MenuHUD.MenuHUD_C:ExecuteUbergraph_MenuHUD
+[2018.07.16-11.19.39:120][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c92da69b0, Size=16
+[2018.07.16-11.19.39:120][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c92da69b0, Size=16, Default__MenuHUD_C Function /Engine/Transient.REINST_MenuHUD_C_1:ExecuteUbergraph_MenuHUD
+[2018.07.16-11.19.39:166][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c92da6990, Size=16, Default__MenuHUD_C Function /Game/Menu/MenuHUD.MenuHUD_C:ExecuteUbergraph_MenuHUD
+[2018.07.16-11.19.39:169][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cf5d03fd0, Size=24, Default__Menu_C Function /Game/Menu/Menu.Menu_C:ExecuteUbergraph_Menu
+[2018.07.16-11.19.39:171][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cf5d03fd0, Size=24
+[2018.07.16-11.19.39:171][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cf5d03fd0, Size=24, Default__Menu_C Function /Engine/Transient.REINST_Menu_C_5:ExecuteUbergraph_Menu
+[2018.07.16-11.19.39:172][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cf5d03130, Size=24, Default__Menu_C Function /Game/Menu/Menu.Menu_C:ExecuteUbergraph_Menu
+[2018.07.16-11.19.39:324][  0]LogAIModule: Creating AISystem for world Menu
+[2018.07.16-11.19.39:579][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.16-11.19.39:714][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c92da69b0, Size=16
+[2018.07.16-11.19.39:714][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cf5d03fd0, Size=24
+[2018.07.16-11.19.39:732][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.16-11.19.39:816][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84,07ms to complete.
+[2018.07.16-11.19.39:816][  0]LogFileHelpers: Loading map 'Menu' took 2.103
+[2018.07.16-11.19.41:687][  0]LogCollectionManager: Loaded 0 collections in 0.003072 seconds
+[2018.07.16-11.19.41:920][  0]LogFileCache: Scanning file cache for directory 'G:/KarotteReup/Saved/Collections/' took 0.01s
+[2018.07.16-11.19.41:920][  0]LogFileCache: Scanning file cache for directory 'G:/KarotteReup/Content/Developers/Yoan/Collections/' took 0.01s
+[2018.07.16-11.19.41:920][  0]LogFileCache: Scanning file cache for directory 'G:/KarotteReup/Content/Collections/' took 0.01s
+[2018.07.16-11.19.41:920][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.16-11.19.41:936][  0]LogContentBrowser: Native class hierarchy populated in 0.0149 seconds. Added 2452 classes and 558 folders.
+[2018.07.16-11.19.41:991][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.16-11.19.43:088][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.16-11.19.43:143][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.16-11.19.44:102][  0]LogSlate: Took 0.018819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.16-11.19.44:139][  0]LogSlate: Took 0.035272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.16-11.19.44:206][  0]LogSlate: Took 0.016564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.16-11.19.44:663][  0]LogRenderer: Reallocating scene render targets to support 1204x536 Format 10 NumSamples 1 (Frame:1).
+[2018.07.16-11.19.45:258][  0]LogSlate: Took 0.017508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.16-11.19.45:517][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.16-11.19.45:517][  0]LogLoad: (Engine Initialization) Total time: 107.45 seconds
+[2018.07.16-11.19.45:517][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.16-11.19.45:972][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.07.16-11.19.46:248][  1]LogRenderer: Reallocating scene render targets to support 1204x552 Format 10 NumSamples 1 (Frame:2).
+[2018.07.16-11.19.46:952][  3]LogAssetRegistry: Asset discovery search completed in 66.8814 seconds
+[2018.07.16-11.19.46:956][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.16-11.19.46:956][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2018.07.16-11.20.20:287][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.20.32:514][395]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.16-11.20.32:796][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbcf6e080, Size=2176, Default__BetteRave_BP_C Function /Game/Enemies/BPEnemies/BetteRave_BP.BetteRave_BP_C:ExecuteUbergraph_BetteRave_BP
+[2018.07.16-11.20.32:800][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbcf92080, Size=2176, Default__Cacarnivor_Blueprint1_C Function /Game/Enemies/BPEnemies/Cacarnivor_Blueprint1.Cacarnivor_Blueprint1_C:ExecuteUbergraph_Cacarnivor_Blueprint1
+[2018.07.16-11.20.33:254][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ca5a7a630, Size=112, Default__Champignon_Blueprint_C Function /Game/Enemies/BPEnemies/Champignon_Blueprint.Champignon_Blueprint_C:ExecuteUbergraph_Champignon_Blueprint
+[2018.07.16-11.20.33:259][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbe7c2400, Size=840, Default__2DSideScrollerCharacter_C Function /Game/Karotte/BPJoueur/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.16-11.20.33:264][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c865d6b00, Size=2528, Default__FleurFusil_BP_C Function /Game/Enemies/BPEnemies/FleurFusil_BP.FleurFusil_BP_C:ExecuteUbergraph_FleurFusil_BP
+[2018.07.16-11.20.34:100][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbdffb600, Size=264, Default__TruelleCheckpoint_BP_C Function /Game/TruelleCheckpoint_BP.TruelleCheckpoint_BP_C:ExecuteUbergraph_TruelleCheckpoint_BP
+[2018.07.16-11.20.34:265][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cf5a95600, Size=2352, Default__RadisKamikaze_BP_C Function /Game/Enemies/BPEnemies/RadisKamikaze_BP.RadisKamikaze_BP_C:ExecuteUbergraph_RadisKamikaze_BP
+[2018.07.16-11.20.34:570][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c80a71d00, Size=224, Default__HUD_C Function /Game/HUD/HUD.HUD_C:ExecuteUbergraph_HUD
+[2018.07.16-11.20.35:891][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c87ecb400, Size=232, Default__Bullet_Blueprint_C Function /Game/Enemies/Bullet/Bullet_Blueprint.Bullet_Blueprint_C:ExecuteUbergraph_Bullet_Blueprint
+[2018.07.16-11.20.40:396][395]LogLinker: Warning: Can't find file '/Game/Betterave/DeathBeterrave'
+[2018.07.16-11.20.40:396][395]LogLinker: Warning: Can't find file '/Game/Betterave/DeathBeterrave'
+[2018.07.16-11.20.40:396][395]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Betterave/DeathBeterrave.DeathBeterrave'
+[2018.07.16-11.20.40:443][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c80a71d00, Size=224
+[2018.07.16-11.20.40:443][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9c833040, Size=224, Default__HUD_C Function /Engine/Transient.REINST_HUD_C_2:ExecuteUbergraph_HUD
+[2018.07.16-11.20.40:447][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbe7c2400, Size=840
+[2018.07.16-11.20.40:447][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9cc93200, Size=840, Default__2DSideScrollerCharacter_C Function /Engine/Transient.REINST_2DSideScrollerCharacter_C_9:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.16-11.20.40:449][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbcf6e080, Size=2176
+[2018.07.16-11.20.40:449][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9c80f580, Size=2176, Default__BetteRave_BP_C Function /Engine/Transient.REINST_BetteRave_BP_C_10:ExecuteUbergraph_BetteRave_BP
+[2018.07.16-11.20.40:450][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c87ecb400, Size=232
+[2018.07.16-11.20.40:450][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9cca3900, Size=232, Default__Bullet_Blueprint_C Function /Engine/Transient.REINST_Bullet_Blueprint_C_11:ExecuteUbergraph_Bullet_Blueprint
+[2018.07.16-11.20.40:451][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbcf92080, Size=2176
+[2018.07.16-11.20.40:451][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9c80d600, Size=2176, Default__Cacarnivor_Blueprint1_C Function /Engine/Transient.REINST_Cacarnivor_Blueprint1_C_12:ExecuteUbergraph_Cacarnivor_Blueprint1
+[2018.07.16-11.20.40:452][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ca5a7a630, Size=112
+[2018.07.16-11.20.40:452][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9c827eb0, Size=112, Default__Champignon_Blueprint_C Function /Engine/Transient.REINST_Champignon_Blueprint_C_13:ExecuteUbergraph_Champignon_Blueprint
+[2018.07.16-11.20.40:454][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c865d6b00, Size=2528
+[2018.07.16-11.20.40:454][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9c80eb00, Size=2528, Default__FleurFusil_BP_C Function /Engine/Transient.REINST_FleurFusil_BP_C_14:ExecuteUbergraph_FleurFusil_BP
+[2018.07.16-11.20.40:456][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cf5a95600, Size=2352
+[2018.07.16-11.20.40:456][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9c80c100, Size=2352, Default__RadisKamikaze_BP_C Function /Engine/Transient.REINST_RadisKamikaze_BP_C_15:ExecuteUbergraph_RadisKamikaze_BP
+[2018.07.16-11.20.40:457][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbdffb600, Size=264
+[2018.07.16-11.20.40:457][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9cd1f4c0, Size=264, Default__TruelleCheckpoint_BP_C Function /Engine/Transient.REINST_TruelleCheckpoint_BP_C_16:ExecuteUbergraph_TruelleCheckpoint_BP
+[2018.07.16-11.20.40:624][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9e1796e0, Size=224, Default__HUD_C Function /Game/HUD/HUD.HUD_C:ExecuteUbergraph_HUD
+[2018.07.16-11.20.40:633][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9e10ae80, Size=840, Default__2DSideScrollerCharacter_C Function /Game/Karotte/BPJoueur/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.16-11.20.40:660][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9dfef580, Size=2176, Default__BetteRave_BP_C Function /Game/Enemies/BPEnemies/BetteRave_BP.BetteRave_BP_C:ExecuteUbergraph_BetteRave_BP
+[2018.07.16-11.20.40:664][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9e031100, Size=232, Default__Bullet_Blueprint_C Function /Game/Enemies/Bullet/Bullet_Blueprint.Bullet_Blueprint_C:ExecuteUbergraph_Bullet_Blueprint
+[2018.07.16-11.20.40:674][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d4d4100, Size=2176, Default__Cacarnivor_Blueprint1_C Function /Game/Enemies/BPEnemies/Cacarnivor_Blueprint1.Cacarnivor_Blueprint1_C:ExecuteUbergraph_Cacarnivor_Blueprint1
+[2018.07.16-11.20.40:680][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9dd557c0, Size=112, Default__Champignon_Blueprint_C Function /Game/Enemies/BPEnemies/Champignon_Blueprint.Champignon_Blueprint_C:ExecuteUbergraph_Champignon_Blueprint
+[2018.07.16-11.20.40:691][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9dcb7580, Size=2528, Default__FleurFusil_BP_C Function /Game/Enemies/BPEnemies/FleurFusil_BP.FleurFusil_BP_C:ExecuteUbergraph_FleurFusil_BP
+[2018.07.16-11.20.40:706][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9dc22080, Size=2352, Default__RadisKamikaze_BP_C Function /Game/Enemies/BPEnemies/RadisKamikaze_BP.RadisKamikaze_BP_C:ExecuteUbergraph_RadisKamikaze_BP
+[2018.07.16-11.20.40:711][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9dc5b100, Size=264, Default__TruelleCheckpoint_BP_C Function /Game/TruelleCheckpoint_BP.TruelleCheckpoint_BP_C:ExecuteUbergraph_TruelleCheckpoint_BP
+[2018.07.16-11.20.40:862][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9dc00100, Size=1232, Default__Fleur_BP_C Function /Game/Enemies/Fleur/Fleur_BP.Fleur_BP_C:ExecuteUbergraph_Fleur_BP
+[2018.07.16-11.20.40:888][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9dc00100, Size=1232
+[2018.07.16-11.20.40:888][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9dd4d600, Size=1232, Default__Fleur_BP_C Function /Engine/Transient.REINST_Fleur_BP_C_26:ExecuteUbergraph_Fleur_BP
+[2018.07.16-11.20.40:908][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9cce7200, Size=1232, Default__Fleur_BP_C Function /Game/Enemies/Fleur/Fleur_BP.Fleur_BP_C:ExecuteUbergraph_Fleur_BP
+[2018.07.16-11.20.41:221][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9ccd6400, Size=1776, Default__Patate_BP_C Function /Game/Enemies/BPEnemies/Patate_BP.Patate_BP_C:ExecuteUbergraph_Patate_BP
+[2018.07.16-11.20.41:249][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9ccd6400, Size=1776
+[2018.07.16-11.20.41:250][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9e0ff900, Size=1776, Default__Patate_BP_C Function /Engine/Transient.REINST_Patate_BP_C_28:ExecuteUbergraph_Patate_BP
+[2018.07.16-11.20.41:272][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9db6ab00, Size=1776, Default__Patate_BP_C Function /Game/Enemies/BPEnemies/Patate_BP.Patate_BP_C:ExecuteUbergraph_Patate_BP
+[2018.07.16-11.20.41:676][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbe7df740, Size=208, Default__Rateau_Blueprint_C Function /Game/Piege/PiegeBP/Rateau_Blueprint.Rateau_Blueprint_C:ExecuteUbergraph_Rateau_Blueprint
+[2018.07.16-11.20.41:682][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbe7df740, Size=208
+[2018.07.16-11.20.41:682][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbe7df740, Size=208, Default__Rateau_Blueprint_C Function /Engine/Transient.REINST_Rateau_Blueprint_C_30:ExecuteUbergraph_Rateau_Blueprint
+[2018.07.16-11.20.41:684][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbe7ddec0, Size=208, Default__Rateau_Blueprint_C Function /Game/Piege/PiegeBP/Rateau_Blueprint.Rateau_Blueprint_C:ExecuteUbergraph_Rateau_Blueprint
+[2018.07.16-11.20.42:091][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbe7dd520, Size=200, Default__Health_Blueprint_C Function /Game/Health_Blueprint.Health_Blueprint_C:ExecuteUbergraph_Health_Blueprint
+[2018.07.16-11.20.42:095][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbe7dd520, Size=200
+[2018.07.16-11.20.42:095][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbe7dd520, Size=200, Default__Health_Blueprint_C Function /Engine/Transient.REINST_Health_Blueprint_C_32:ExecuteUbergraph_Health_Blueprint
+[2018.07.16-11.20.42:098][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d94fba0, Size=200, Default__Health_Blueprint_C Function /Game/Health_Blueprint.Health_Blueprint_C:ExecuteUbergraph_Health_Blueprint
+[2018.07.16-11.20.42:205][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d546480, Size=608, Default__Picpic_Blueprint_C Function /Game/Piege/PiegeBP/Picpic_Blueprint.Picpic_Blueprint_C:ExecuteUbergraph_Picpic_Blueprint
+[2018.07.16-11.20.42:224][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d546480, Size=608
+[2018.07.16-11.20.42:224][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d546480, Size=608, Default__Picpic_Blueprint_C Function /Engine/Transient.REINST_Picpic_Blueprint_C_34:ExecuteUbergraph_Picpic_Blueprint
+[2018.07.16-11.20.42:232][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c85777600, Size=608, Default__Picpic_Blueprint_C Function /Game/Piege/PiegeBP/Picpic_Blueprint.Picpic_Blueprint_C:ExecuteUbergraph_Picpic_Blueprint
+[2018.07.16-11.20.42:284][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ca13fd360, Size=224, Default__bp_platform_C Function /Game/test_platform_moving/bp/bp_platform.bp_platform_C:ExecuteUbergraph_bp_platform
+[2018.07.16-11.20.42:288][395]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ca13fd360, Size=224
+[2018.07.16-11.20.42:288][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d93fc80, Size=224, Default__bp_platform_C Function /Engine/Transient.REINST_bp_platform_C_36:ExecuteUbergraph_bp_platform
+[2018.07.16-11.20.42:291][395]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d93f040, Size=224, Default__bp_platform_C Function /Game/test_platform_moving/bp/bp_platform.bp_platform_C:ExecuteUbergraph_bp_platform
+[2018.07.16-11.20.44:024][395]LogAIModule: Creating AISystem for world Commetuveux1
+[2018.07.16-11.20.44:121][395]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Map/Commetuveux1.Commetuveux'
+[2018.07.16-11.20.52:003][887]SourceControl: Source control is disabled
+[2018.07.16-11.20.52:003][887]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.16-11.20.55:122][252]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.20.55:167][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.07.16-11.20.55:168][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.20.55:190][252]PIE: New page: PIE session: Menu (16 juil. 2018 15:20:55)
+[2018.07.16-11.20.55:190][252]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_Menu
+[2018.07.16-11.20.55:217][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026394s)
+[2018.07.16-11.20.55:217][252]LogAIModule: Creating AISystem for world Menu
+[2018.07.16-11.20.55:218][252]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2018.07.16-11.20.55:218][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/Menu.Menu to /Game/Menu/UEDPIE_0_Menu.Menu (0.027383s)
+[2018.07.16-11.20.55:270][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9c80f580, Size=2176
+[2018.07.16-11.20.55:270][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9c80d600, Size=2176
+[2018.07.16-11.20.55:270][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9c827eb0, Size=112
+[2018.07.16-11.20.55:270][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9cc93200, Size=840
+[2018.07.16-11.20.55:270][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9c80eb00, Size=2528
+[2018.07.16-11.20.55:270][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9cd1f4c0, Size=264
+[2018.07.16-11.20.55:270][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9c80c100, Size=2352
+[2018.07.16-11.20.55:270][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9c833040, Size=224
+[2018.07.16-11.20.55:271][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9cca3900, Size=232
+[2018.07.16-11.20.55:271][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9dd4d600, Size=1232
+[2018.07.16-11.20.55:271][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9e0ff900, Size=1776
+[2018.07.16-11.20.55:271][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbe7df740, Size=208
+[2018.07.16-11.20.55:271][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbe7dd520, Size=200
+[2018.07.16-11.20.55:271][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d546480, Size=608
+[2018.07.16-11.20.55:271][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d93fc80, Size=224
+[2018.07.16-11.20.55:326][252]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.20.55:349][252]LogInit: FAudioDevice initialized.
+[2018.07.16-11.20.55:409][252]LogLoad: Game class is 'Menu_GM_C'
+[2018.07.16-11.20.55:449][252]LogWorld: Bringing World /Game/Menu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.07.16-13.20.55
+[2018.07.16-11.20.55:482][252]LogWorld: Bringing up level for play took: 0.052094
+[2018.07.16-11.20.55:546][252]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.07.16-11.20.55:699][252]PIE: Play in editor start time for /Game/Menu/UEDPIE_0_Menu 1,269
+[2018.07.16-11.20.55:700][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.07.16-11.20.55:723][252]PIE: Warning: Mobility of /Game/Menu/UEDPIE_0_Menu.Menu:PersistentLevel.MenuKarotte_Blueprint : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2018.07.16-11.20.59:737][704]LogNet: Browse: /Game/Map/Commetuveux
+[2018.07.16-11.20.59:737][704]LogLoad: LoadMap: /Game/Map/Commetuveux
+[2018.07.16-11.21.00:527][704]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.21.01:301][704]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.21.01:322][704]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.21.01
+[2018.07.16-11.21.01:387][704]LogWorld: Bringing up level for play took: 0.085112
+[2018.07.16-11.21.01:405][704]LogLoad: Took 1.667887 seconds to LoadMap(/Game/Map/Commetuveux)
+[2018.07.16-11.21.01:512][705]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066263 > MaxSimulationTimeStep (0.050) for 'Radis_Blueprint6', movement 'Walking'
+[2018.07.16-11.21.09:917][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.07.16-11.21.09:969][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu/Menu.Menu:PersistentLevel.Menu'
+[2018.07.16-11.21.14:879][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.21.15:297][ 68]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.21.15:400][ 68]Cmd: MAP LOAD FILE="../../../../KarotteReup/Content/Map/Commetuveux.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.16-11.21.15:401][ 68]LightingResults: New page: Lighting Build
+[2018.07.16-11.21.15:401][ 68]LoadErrors: New page: Loading map: Commetuveux.umap
+[2018.07.16-11.21.15:402][ 68]MapCheck: New page: Map Check
+[2018.07.16-11.21.15:402][ 68]LightingResults: New page: Lighting Build
+[2018.07.16-11.21.15:446][ 68]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cf5d03130, Size=24
+[2018.07.16-11.21.15:659][ 68]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.16-11.21.15:738][ 68]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.16-11.21.15:929][ 68]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 191,364ms to complete.
+[2018.07.16-11.21.15:929][ 68]LogFileHelpers: Loading map 'Commetuveux' took 0.539
+[2018.07.16-11.21.39:374][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.21.39:741][553]LogAIModule: Creating AISystem for world Commetuveux1
+[2018.07.16-11.21.42:647][835]Cmd: MAP LOAD FILE="../../../../KarotteReup/Content/Map/Commetuveux.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.16-11.21.42:647][835]LightingResults: New page: Lighting Build
+[2018.07.16-11.21.42:648][835]LoadErrors: New page: Loading map: Commetuveux.umap
+[2018.07.16-11.21.42:651][835]MapCheck: New page: Map Check
+[2018.07.16-11.21.42:651][835]LightingResults: New page: Lighting Build
+[2018.07.16-11.21.42:872][835]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.21.43:002][835]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.16-11.21.43:086][835]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.16-11.21.43:278][835]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 192,004ms to complete.
+[2018.07.16-11.21.43:283][835]LogFileHelpers: Loading map 'Commetuveux' took 0.637
+[2018.07.16-11.21.44:559][952]LogAIModule: Creating AISystem for world Commetuveux1
+[2018.07.16-11.21.45:383][ 22]Cmd: MAP LOAD FILE="../../../../KarotteReup/Content/Map/Commetuveux.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.16-11.21.45:383][ 22]LightingResults: New page: Lighting Build
+[2018.07.16-11.21.45:384][ 22]LoadErrors: New page: Loading map: Commetuveux.umap
+[2018.07.16-11.21.45:386][ 22]MapCheck: New page: Map Check
+[2018.07.16-11.21.45:386][ 22]LightingResults: New page: Lighting Build
+[2018.07.16-11.21.45:598][ 22]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.21.45:751][ 22]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.16-11.21.45:833][ 22]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.16-11.21.46:020][ 22]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 187,211ms to complete.
+[2018.07.16-11.21.46:023][ 22]LogFileHelpers: Loading map 'Commetuveux' took 0.641
+[2018.07.16-11.21.48:020][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.22.15:575][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.22.29:691][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.22.29:741][153]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c83e4f640, Size=96, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.22.29:744][153]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c83e4f640, Size=96
+[2018.07.16-11.22.29:745][153]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c83e4f640, Size=96, Default__CanonRadie_BP_C Function /Engine/Transient.REINST_CanonRadie_BP_C_40:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.22.29:748][153]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c83e4fb20, Size=96, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.22.31:738][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.22.59:175][849]LogSlate: Took 0.030634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.16-11.23.03:750][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.23.03:811][289]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.23.03:835][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.23.03:835][289]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:23:03)
+[2018.07.16-11.23.03:835][289]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.23.03:853][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017772s)
+[2018.07.16-11.23.03:854][289]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.23.03:854][289]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.07.16-11.23.03:854][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.018886s)
+[2018.07.16-11.23.03:898][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c83e4f640, Size=96
+[2018.07.16-11.23.03:939][289]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.23.03:953][289]LogInit: FAudioDevice initialized.
+[2018.07.16-11.23.03:994][289]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.23.04:003][289]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.23.04
+[2018.07.16-11.23.04:012][289]LogWorld: Bringing up level for play took: 0.018153
+[2018.07.16-11.23.04:016][289]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux -0,415
+[2018.07.16-11.23.07:713][647]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.07.16-11.23.08:741][734]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.16-11.23.10:762][894]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.16-11.23.11:533][965]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.16-11.23.12:516][ 57]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.16-11.23.13:027][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.23.13:089][106]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.23.13:123][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.23.13:123][106]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:23:13)
+[2018.07.16-11.23.13:123][106]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.23.13:141][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017880s)
+[2018.07.16-11.23.13:142][106]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.23.13:142][106]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.07.16-11.23.13:142][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.019200s)
+[2018.07.16-11.23.13:225][106]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.23.13:239][106]LogInit: FAudioDevice initialized.
+[2018.07.16-11.23.13:271][106]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.23.13:279][106]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.23.13
+[2018.07.16-11.23.13:290][106]LogWorld: Bringing up level for play took: 0.018229
+[2018.07.16-11.23.13:293][106]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux 0,863
+[2018.07.16-11.23.22:358][ 32]LogEditorViewport: Clicking on Actor (LMB): RadisKamikaze_BP_C (Radis_Blueprint2)
+[2018.07.16-11.23.33:886][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.16-11.23.34:666][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.16-11.23.35:571][ 38]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.07.16-11.23.36:142][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d43a44438, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.16-11.23.36:143][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d43a44430, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.16-11.23.37:359][ 38]LogSlate: Took 0.017243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.16-11.23.39:753][ 82]LogSlate: Window 'RadisKamikaze_BP' being destroyed
+[2018.07.16-11.23.40:004][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.23.41:531][212]LogEditorViewport: Clicking on Actor (LMB): CanonRadie_BP_C (CanonRadie_BP)
+[2018.07.16-11.23.42:472][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.16-11.23.43:182][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.16-11.24.45:404][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Piege/PiegeBP/SpawnChoices" FILE="../../../../KarotteReup/Content/Piege/PiegeBP/SpawnChoices.uasset" SILENT=true
+[2018.07.16-11.24.45:428][763]LogSavePackage: Save=22.23ms
+[2018.07.16-11.24.45:428][763]LogSavePackage: Moving '../../../../KarotteReup/Saved/SpawnChoices95DB0A8E4E0389EF6E3DE9B3E19BE956.tmp' to '../../../../KarotteReup/Content/Piege/PiegeBP/SpawnChoices.uasset'
+[2018.07.16-11.24.45:442][763]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Piege/PiegeBP/SpawnChoices.uasset
+[2018.07.16-11.24.50:341][317]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d3ae498, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.24.52:398][519]LogSlate: Took 0.019474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.16-11.24.56:145][962]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d3ae498, Size=4
+[2018.07.16-11.24.56:145][962]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d4b970d48, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_56:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.24.56:146][962]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d4b970cf8, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.24.58:500][226]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.24.58:506][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d4b970cf8, Size=4
+[2018.07.16-11.24.58:506][226]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d4b970cf8, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_58:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.24.58:511][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c83e4fb20, Size=96
+[2018.07.16-11.24.58:511][226]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d5092d300, Size=96, Default__CanonRadie_BP_C Function /Engine/Transient.REINST_CanonRadie_BP_C_60:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.24.58:514][226]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d5092d900, Size=96, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.24.59:002][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d4b970d48, Size=4
+[2018.07.16-11.24.59:002][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d4b970cf8, Size=4
+[2018.07.16-11.24.59:572][285]LogClass: Warning: In asset 'None', there is an enum property of type 'SpawnChoices' with an invalid value of ''
+[2018.07.16-11.24.59:572][285]LogClass: Warning: In asset 'None', there is an enum property of type 'SpawnChoices' with an invalid value of ''
+[2018.07.16-11.25.01:501][495]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d41ca23f0, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.25.13:726][918]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d41ca23f0, Size=4
+[2018.07.16-11.25.13:726][918]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c95c9bf20, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_64:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.25.13:728][918]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c95c98bb0, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.25.16:069][185]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.25.16:074][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c95c98bb0, Size=4
+[2018.07.16-11.25.16:074][185]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c95c98bb0, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_66:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.25.16:079][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d5092d900, Size=96
+[2018.07.16-11.25.16:079][185]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d5092d900, Size=96, CanonRadie_BP_C_19 Function /Engine/Transient.REINST_CanonRadie_BP_C_68:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.25.16:083][185]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d5092dc00, Size=96, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.25.16:490][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c95c98bb0, Size=4
+[2018.07.16-11.25.16:490][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c95c9bf20, Size=4
+[2018.07.16-11.25.17:004][239]LogClass: Warning: In asset 'None', there is an enum property of type 'SpawnChoices' with an invalid value of ''
+[2018.07.16-11.25.17:004][239]LogClass: Warning: In asset 'None', there is an enum property of type 'SpawnChoices' with an invalid value of ''
+[2018.07.16-11.26.40:918][816]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934cc600, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.26.47:374][365]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.07.16-11.26.47:379][365]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934cc600, Size=4
+[2018.07.16-11.26.47:379][365]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5e5f0, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_72:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.26.47:382][365]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5e2d0, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.26.47:382][365]LogClass: Warning: Type mismatch in NewVar_0 of SKEL_CanonRadie_BP_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.07.16-11.26.52:142][898]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.07.16-11.26.52:147][898]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.07.16-11.26.53:836][ 86]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.26.53:845][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5e2d0, Size=4
+[2018.07.16-11.26.53:845][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5e2d0, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_74:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.26.53:854][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d5092dc00, Size=96
+[2018.07.16-11.26.53:854][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d530c8c40, Size=96, CanonRadie_BP_C_32 Function /Engine/Transient.REINST_CanonRadie_BP_C_76:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.26.53:858][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d50a799c0, Size=96, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.26.53:859][ 86]LogBlueprint: Warning: [Compiler CanonRadie_BP] Can't parse default value '/Game/Enemies/BPEnemies/Cacarnivor_Blueprint1.Cacarnivor_Blueprint1_C' for  <None> . Property: NewVar_0.
+[2018.07.16-11.26.54:318][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5e2d0, Size=4
+[2018.07.16-11.26.54:318][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5e5f0, Size=4
+[2018.07.16-11.26.54:318][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d5092d900, Size=96
+[2018.07.16-11.26.54:333][ 86]LogBlueprint: Warning: [Compiler CanonRadie_BP] [0536,26] Compile of CanonRadie_BP successful, but with 1 Warning(s) [in 496 ms] (/Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP)
+[2018.07.16-11.27.23:535][434]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.27.23:551][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d50a799c0, Size=96
+[2018.07.16-11.27.23:551][434]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d51444ee0, Size=96, CanonRadie_BP_C_63 Function /Engine/Transient.REINST_CanonRadie_BP_C_80:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.27.23:555][434]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d51444d60, Size=96, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.27.23:968][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d530c8c40, Size=96
+[2018.07.16-11.27.26:826][536]LogSlate: Window 'Delete Variable' being destroyed
+[2018.07.16-11.27.39:212][897]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5dee0, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.27.41:672][185]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.27.41:679][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5dee0, Size=4
+[2018.07.16-11.27.41:679][185]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5dee0, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_84:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.27.41:687][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d51444d60, Size=96
+[2018.07.16-11.27.41:687][185]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d507834c0, Size=96, CanonRadie_BP_C_73 Function /Engine/Transient.REINST_CanonRadie_BP_C_86:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.27.41:690][185]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d50d8a160, Size=80, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.27.42:108][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5dee0, Size=4
+[2018.07.16-11.27.50:843][151]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.16-11.28.32:302][739]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.28.32:319][739]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d50d8a160, Size=80
+[2018.07.16-11.28.32:319][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ca17126b0, Size=80, CanonRadie_BP_C_80 Function /Engine/Transient.REINST_CanonRadie_BP_C_90:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.28.32:322][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ca1710860, Size=80, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.28.32:736][739]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d507834c0, Size=96
+[2018.07.16-11.28.56:434][446]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Spawn radie  and was replaced as a Custom Event!
+[2018.07.16-11.28.56:435][446]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_1   conflicted with  Reset spawn  and was replaced as a Custom Event!
+[2018.07.16-11.28.56:579][446]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5f928, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.29.50:739][228]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5f928, Size=4
+[2018.07.16-11.29.50:739][228]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d3afa30, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_94:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.29.50:741][228]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d3acd58, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.29.52:180][393]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.29.52:188][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d3acd58, Size=4
+[2018.07.16-11.29.52:188][393]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934ce320, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_96:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.29.52:197][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ca1710860, Size=80
+[2018.07.16-11.29.52:197][393]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d516ae570, Size=80, CanonRadie_BP_C_102 Function /Engine/Transient.REINST_CanonRadie_BP_C_98:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.29.52:200][393]LogBlueprint: Error: [Compiler CanonRadie_BP] Could not find a function named "Spawn radie" in 'CanonRadie_BP_C'.
+Make sure 'CanonRadie_BP_C' has been compiled for  Spawn Radie
+[2018.07.16-11.29.52:201][393]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d52780c00, Size=128, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.29.52:428][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934ce320, Size=4
+[2018.07.16-11.29.52:428][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d3afa30, Size=4
+[2018.07.16-11.29.52:428][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ca17126b0, Size=80
+[2018.07.16-11.29.52:442][393]LogBlueprint: Warning: [Compiler CanonRadie_BP] [0714,37] Compile of CanonRadie_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 261 ms] (/Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP)
+[2018.07.16-11.30.02:883][595]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d3af958, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.02:890][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d3af958, Size=4
+[2018.07.16-11.30.02:890][595]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d3af958, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_102:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.02:892][595]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c9d3ac2a8, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.06:991][ 67]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d3ac2a8, Size=4
+[2018.07.16-11.30.06:991][ 67]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934ce298, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_104:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.06:993][ 67]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934cca60, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.07:000][ 67]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934cca60, Size=4
+[2018.07.16-11.30.07:000][ 67]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934cca60, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_106:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.07:002][ 67]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934cfd88, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.15:287][ 31]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934cfd88, Size=4
+[2018.07.16-11.30.15:287][ 31]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934cfd88, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_108:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.15:290][ 31]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934cd760, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.15:296][ 31]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934cd760, Size=4
+[2018.07.16-11.30.15:296][ 31]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934cd760, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_110:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.15:298][ 31]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934ced20, Size=4, Default__SKEL_CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.SKEL_CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.25:871][192]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.30.25:879][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934ced20, Size=4
+[2018.07.16-11.30.25:879][192]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5ec08, Size=4, Default__SKEL_CanonRadie_BP_C Function /Engine/Transient.REINST_SKEL_CanonRadie_BP_C_112:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.25:887][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d52780c00, Size=128
+[2018.07.16-11.30.25:887][192]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53e49a80, Size=128, CanonRadie_BP_C_119 Function /Engine/Transient.REINST_CanonRadie_BP_C_114:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.25:892][192]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53e48b00, Size=128, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.30.26:315][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5ec08, Size=4
+[2018.07.16-11.30.26:315][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934cd760, Size=4
+[2018.07.16-11.30.26:315][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934cfd88, Size=4
+[2018.07.16-11.30.26:315][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934cca60, Size=4
+[2018.07.16-11.30.26:315][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d516ae570, Size=80
+[2018.07.16-11.30.26:316][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934ce298, Size=4
+[2018.07.16-11.30.26:316][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9d3af958, Size=4
+[2018.07.16-11.31.05:481][691]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.31.05:498][691]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53e48b00, Size=128
+[2018.07.16-11.31.05:498][691]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d5195f600, Size=128, CanonRadie_BP_C_126 Function /Engine/Transient.REINST_CanonRadie_BP_C_118:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.31.05:501][691]LogBlueprint: Error: [Compiler CanonRadie_BP] Could not find a function named "Reset spawn" in 'CanonRadie_BP_C'.
+Make sure 'CanonRadie_BP_C' has been compiled for  Reset Spawn
+[2018.07.16-11.31.05:503][691]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d5195e600, Size=128, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.31.05:695][691]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53e49a80, Size=128
+[2018.07.16-11.31.05:707][691]LogBlueprint: Warning: [Compiler CanonRadie_BP] [0787,63] Compile of CanonRadie_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 225 ms] (/Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP)
+[2018.07.16-11.31.15:662][742]BlueprintLog: New page: Compile CanonRadie_BP
+[2018.07.16-11.31.15:680][742]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d5195e600, Size=128
+[2018.07.16-11.31.15:680][742]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d62d64d80, Size=128, CanonRadie_BP_C_127 Function /Engine/Transient.REINST_CanonRadie_BP_C_122:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.31.15:685][742]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d62d65a00, Size=128, Default__CanonRadie_BP_C Function /Game/Piege/PiegeBP/CanonRadie_BP.CanonRadie_BP_C:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.31.15:879][742]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d5195f600, Size=128
+[2018.07.16-11.31.42:921][321]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.16-11.31.42:921][321]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.16-11.31.42:921][321]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.16-11.31.42:921][321]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.16-11.31.42:921][321]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.16-11.31.42:921][321]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.16-11.31.42:921][321]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.16-11.31.42:921][321]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.16-11.32.01:728][340]BlueprintLog: New page: Compile RadisKamikaze_BP
+[2018.07.16-11.32.01:953][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9dc22080, Size=2352
+[2018.07.16-11.32.01:953][340]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d422ceb00, Size=2352, Default__RadisKamikaze_BP_C Function /Engine/Transient.REINST_RadisKamikaze_BP_C_138:ExecuteUbergraph_RadisKamikaze_BP
+[2018.07.16-11.32.01:984][340]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d5d20ab00, Size=2352, Default__RadisKamikaze_BP_C Function /Game/Enemies/BPEnemies/RadisKamikaze_BP.RadisKamikaze_BP_C:ExecuteUbergraph_RadisKamikaze_BP
+[2018.07.16-11.32.03:174][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d62d64d80, Size=128
+[2018.07.16-11.32.06:869][622]LogEditorViewport: Clicking on Actor (LMB): CanonRadie_BP_C (CanonRadie_BP)
+[2018.07.16-11.32.09:136][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.32.15:103][328]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d62d65a00, Size=128
+[2018.07.16-11.32.15:103][328]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d4cd31580, Size=128, Default__CanonSpawn_BP_C Function /Engine/Transient.REINST_CanonSpawn_BP_C_142:ExecuteUbergraph_CanonRadie_BP
+[2018.07.16-11.32.15:111][328]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d4cd30580, Size=128, Default__CanonSpawn_BP_C Function /Game/Piege/PiegeBP/CanonSpawn_BP.CanonSpawn_BP_C:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.32.15:547][328]LogMetaData: Removing '/Game/Piege/PiegeBP/CanonSpawn_BP.CanonSpawn_BP_C' ref from Metadata '/Game/Piege/PiegeBP/CanonRadie_BP.PackageMetaData'
+[2018.07.16-11.32.15:547][328]LogMetaData: Removing '/Game/Piege/PiegeBP/CanonSpawn_BP.CanonSpawn_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Piege/PiegeBP/CanonRadie_BP.PackageMetaData'
+[2018.07.16-11.32.15:547][328]LogMetaData: Removing '/Game/Piege/PiegeBP/CanonSpawn_BP.SKEL_CanonSpawn_BP_C' ref from Metadata '/Game/Piege/PiegeBP/CanonRadie_BP.PackageMetaData'
+[2018.07.16-11.32.15:721][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Piege/PiegeBP/CanonSpawn_BP" FILE="../../../../KarotteReup/Content/Piege/PiegeBP/CanonSpawn_BP.uasset" SILENT=true
+[2018.07.16-11.32.15:760][328]LogSavePackage: Save=36.04ms
+[2018.07.16-11.32.15:760][328]LogSavePackage: Moving '../../../../KarotteReup/Saved/CanonSpawn_BPA2EA8101466D04A356964382FCCDAE2E.tmp' to '../../../../KarotteReup/Content/Piege/PiegeBP/CanonSpawn_BP.uasset'
+[2018.07.16-11.32.15:762][328]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Piege/PiegeBP/CanonSpawn_BP.uasset
+[2018.07.16-11.32.16:274][328]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d4cd31580, Size=128
+[2018.07.16-11.32.16:274][328]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d51444ee0, Size=96
+[2018.07.16-11.32.16:274][328]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d5092d300, Size=96
+[2018.07.16-11.32.20:060][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Commetuveux" FILE="../../../../KarotteReup/Content/Map/Commetuveux.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.16-11.32.20:485][607]LogSavePackage: Save=337.07ms
+[2018.07.16-11.32.20:486][607]LogSavePackage: Moving '../../../../KarotteReup/Saved/Commetuveux05220A974FE2E7F937423A81975340DB.tmp' to '../../../../KarotteReup/Content/Map/Commetuveux.umap'
+[2018.07.16-11.32.20:515][607]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Map/Commetuveux.umap
+[2018.07.16-11.32.20:986][643]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.32.21:066][643]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.16-11.32.21:186][643]LogPlayLevel: [PlayLevel] Compiling RadisKamikaze_BP before play...
+[2018.07.16-11.32.21:278][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d5d20ab00, Size=2352
+[2018.07.16-11.32.21:278][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc7494b80, Size=2352, RadisKamikaze_BP_C_9 Function /Engine/Transient.REINST_RadisKamikaze_BP_C_158:ExecuteUbergraph_RadisKamikaze_BP
+[2018.07.16-11.32.21:309][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c95cbd600, Size=2352, Default__RadisKamikaze_BP_C Function /Game/Enemies/BPEnemies/RadisKamikaze_BP.RadisKamikaze_BP_C:ExecuteUbergraph_RadisKamikaze_BP
+[2018.07.16-11.32.22:457][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d43a44438, Size=4
+[2018.07.16-11.32.22:457][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d46641988, Size=4, SKEL_PROTO_BP_AnimBlueprint_0_C_0 Function /Engine/Transient.REINST_SKEL_PROTO_BP_AnimBlueprint_0_C_0:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.16-11.32.22:457][643]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2018.07.16-11.32.22:458][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d43a44430, Size=4
+[2018.07.16-11.32.22:458][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d46641978, Size=4, PROTO_BP_AnimBlueprint_0_C_0 Function /Engine/Transient.REINST_PROTO_BP_AnimBlueprint_0_C_1:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.16-11.32.22:460][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d466417b0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.16-11.32.22:535][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d46641988, Size=4
+[2018.07.16-11.32.22:535][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d46641978, Size=4
+[2018.07.16-11.32.22:535][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc7494b80, Size=2352
+[2018.07.16-11.32.22:541][643]LogPlayLevel: PlayLevel: Blueprint regeneration took 1474 ms (2 blueprints)
+[2018.07.16-11.32.22:541][643]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:32:22)
+[2018.07.16-11.32.22:541][643]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.32.22:558][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017423s)
+[2018.07.16-11.32.22:559][643]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.32.22:559][643]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2018.07.16-11.32.22:559][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.018430s)
+[2018.07.16-11.32.22:671][643]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.32.22:685][643]LogInit: FAudioDevice initialized.
+[2018.07.16-11.32.22:719][643]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.32.22:727][643]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.32.22
+[2018.07.16-11.32.22:736][643]LogWorld: Bringing up level for play took: 0.017027
+[2018.07.16-11.32.22:740][643]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux 2,31
+[2018.07.16-11.32.22:774][644]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068490 > MaxSimulationTimeStep (0.050) for 'Radis_Blueprint6', movement 'Walking'
+[2018.07.16-11.32.25:972][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.32.29:973][375]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.32.30:003][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.32.30:003][375]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:32:30)
+[2018.07.16-11.32.30:003][375]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.32.30:020][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017398s)
+[2018.07.16-11.32.30:021][375]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.32.30:021][375]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.07.16-11.32.30:021][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.018381s)
+[2018.07.16-11.32.30:129][375]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.32.30:143][375]LogInit: FAudioDevice initialized.
+[2018.07.16-11.32.30:179][375]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.32.30:187][375]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.32.30
+[2018.07.16-11.32.30:197][375]LogWorld: Bringing up level for play took: 0.017386
+[2018.07.16-11.32.30:201][375]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux -0,23
+[2018.07.16-11.32.55:119][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.32.59:034][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.33.18:279][870]BlueprintLog: New page: Compile BetteRave_BP
+[2018.07.16-11.33.18:547][870]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c9dfef580, Size=2176
+[2018.07.16-11.33.18:547][870]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d70337580, Size=2176, Default__BetteRave_BP_C Function /Engine/Transient.REINST_BetteRave_BP_C_176:ExecuteUbergraph_BetteRave_BP
+[2018.07.16-11.33.18:576][870]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d4b44a080, Size=2176, Default__BetteRave_BP_C Function /Game/Enemies/BPEnemies/BetteRave_BP.BetteRave_BP_C:ExecuteUbergraph_BetteRave_BP
+[2018.07.16-11.33.21:380][979]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.16-11.34.35:654][692]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d422ceb00, Size=2352
+[2018.07.16-11.34.36:083][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Commetuveux" FILE="../../../../KarotteReup/Content/Map/Commetuveux.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.16-11.34.36:416][692]LogSavePackage: Save=263.53ms
+[2018.07.16-11.34.36:416][692]LogSavePackage: Moving '../../../../KarotteReup/Saved/Commetuveux46314FCB4DB733B4F16BA091FA8C2777.tmp' to '../../../../KarotteReup/Content/Map/Commetuveux.umap'
+[2018.07.16-11.34.36:419][692]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Map/Commetuveux.umap
+[2018.07.16-11.34.36:451][692]LogFileHelpers: Saving map 'Commetuveux' took 0.569
+[2018.07.16-11.34.36:453][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BPEnemies/BetteRave_BP" FILE="../../../../KarotteReup/Content/Enemies/BPEnemies/BetteRave_BP.uasset" SILENT=true
+[2018.07.16-11.34.36:830][692]LogSavePackage: Save=361.51ms
+[2018.07.16-11.34.36:830][692]LogSavePackage: Moving '../../../../KarotteReup/Saved/BetteRave_BP60CCA28F4D59273948F9D8ACA6B97EB7.tmp' to '../../../../KarotteReup/Content/Enemies/BPEnemies/BetteRave_BP.uasset'
+[2018.07.16-11.34.36:853][692]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Enemies/BPEnemies/BetteRave_BP.uasset
+[2018.07.16-11.34.36:857][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BPEnemies/RadisKamikaze_BP" FILE="../../../../KarotteReup/Content/Enemies/BPEnemies/RadisKamikaze_BP.uasset" SILENT=true
+[2018.07.16-11.34.37:119][692]LogSavePackage: Save=251.89ms
+[2018.07.16-11.34.37:119][692]LogSavePackage: Moving '../../../../KarotteReup/Saved/RadisKamikaze_BP11BE229F4B56035054812FBD68DB15F3.tmp' to '../../../../KarotteReup/Content/Enemies/BPEnemies/RadisKamikaze_BP.uasset'
+[2018.07.16-11.34.37:121][692]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Enemies/BPEnemies/RadisKamikaze_BP.uasset
+[2018.07.16-11.34.37:125][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Piege/PiegeBP/CanonSpawn_BP" FILE="../../../../KarotteReup/Content/Piege/PiegeBP/CanonSpawn_BP.uasset" SILENT=true
+[2018.07.16-11.34.37:167][692]LogSavePackage: Save=32.76ms
+[2018.07.16-11.34.37:167][692]LogSavePackage: Moving '../../../../KarotteReup/Saved/CanonSpawn_BP2AC0B20B4493884CF566F3824DED25A9.tmp' to '../../../../KarotteReup/Content/Piege/PiegeBP/CanonSpawn_BP.uasset'
+[2018.07.16-11.34.37:169][692]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Piege/PiegeBP/CanonSpawn_BP.uasset
+[2018.07.16-11.34.46:084][581]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d6109d670, Size=4, Default__SKEL_CanonSpawn_BP_C Function /Game/Piege/PiegeBP/CanonSpawn_BP.SKEL_CanonSpawn_BP_C:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.34.50:767][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d6109d670, Size=4
+[2018.07.16-11.34.50:767][133]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934cf398, Size=4, Default__SKEL_CanonSpawn_BP_C Function /Engine/Transient.REINST_SKEL_CanonSpawn_BP_C_180:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.34.50:769][133]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c934ccda8, Size=4, Default__SKEL_CanonSpawn_BP_C Function /Game/Piege/PiegeBP/CanonSpawn_BP.SKEL_CanonSpawn_BP_C:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.34.54:515][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934ccda8, Size=4
+[2018.07.16-11.34.54:515][560]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5c218, Size=4, Default__SKEL_CanonSpawn_BP_C Function /Engine/Transient.REINST_SKEL_CanonSpawn_BP_C_182:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.34.54:517][560]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5cf28, Size=4, Default__SKEL_CanonSpawn_BP_C Function /Game/Piege/PiegeBP/CanonSpawn_BP.SKEL_CanonSpawn_BP_C:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.34.55:214][636]BlueprintLog: New page: Compile CanonSpawn_BP
+[2018.07.16-11.34.55:224][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5cf28, Size=4
+[2018.07.16-11.34.55:224][636]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d53d5cf28, Size=4, Default__SKEL_CanonSpawn_BP_C Function /Engine/Transient.REINST_SKEL_CanonSpawn_BP_C_184:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.34.55:235][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d4cd30580, Size=128
+[2018.07.16-11.34.55:235][636]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d6b7def80, Size=128, Default__CanonSpawn_BP_C Function /Engine/Transient.REINST_CanonSpawn_BP_C_186:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.34.55:243][636]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d6b7dc280, Size=128, Default__CanonSpawn_BP_C Function /Game/Piege/PiegeBP/CanonSpawn_BP.CanonSpawn_BP_C:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.34.55:663][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d70337580, Size=2176
+[2018.07.16-11.34.55:663][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5cf28, Size=4
+[2018.07.16-11.34.55:663][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d53d5c218, Size=4
+[2018.07.16-11.34.55:663][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c934cf398, Size=4
+[2018.07.16-11.35.12:785][503]LogEditorViewport: Clicking on Actor (LMB): CanonSpawn_BP_C (CanonRadie_BP)
+[2018.07.16-11.35.17:177][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.16-11.35.21:086][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Commetuveux" FILE="../../../../KarotteReup/Content/Map/Commetuveux.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.16-11.35.21:149][196]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d6b7def80, Size=128
+[2018.07.16-11.35.21:404][196]LogSavePackage: Save=251.79ms
+[2018.07.16-11.35.21:404][196]LogSavePackage: Moving '../../../../KarotteReup/Saved/Commetuveux9BB26BAA41992725BAF1EA8FA63F2A0F.tmp' to '../../../../KarotteReup/Content/Map/Commetuveux.umap'
+[2018.07.16-11.35.21:407][196]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Map/Commetuveux.umap
+[2018.07.16-11.35.27:376][707]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (BakcgroundTest_Sprite3)
+[2018.07.16-11.35.27:720][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.16-11.35.38:315][507]LogEditorViewport: Clicking on Actor (LMB): CanonSpawn_BP_C (CanonRadie_BP)
+[2018.07.16-11.35.39:408][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.35.40:561][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Commetuveux" FILE="../../../../KarotteReup/Content/Map/Commetuveux.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.16-11.35.40:889][672]LogSavePackage: Save=256.81ms
+[2018.07.16-11.35.40:889][672]LogSavePackage: Moving '../../../../KarotteReup/Saved/Commetuveux76DB9D3E4FE3305C19AD20A648A6BC8D.tmp' to '../../../../KarotteReup/Content/Map/Commetuveux.umap'
+[2018.07.16-11.35.40:905][672]LogSavePackage: Display: Finished SavePackage ../../../../KarotteReup/Content/Map/Commetuveux.umap
+[2018.07.16-11.35.43:121][825]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.07.16-11.35.57:273][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.36.14:729][479]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d3e7b1090, Size=4, Default__SKEL_Commetuveux_C Function /Game/Map/Commetuveux.SKEL_Commetuveux_C:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.36.22:854][283]LogEditorViewport: Clicking on Actor (LMB): CanonSpawn_BP_C (CanonRadie_BP)
+[2018.07.16-11.36.23:780][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.36.25:890][549]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d3e7b1090, Size=4
+[2018.07.16-11.36.25:890][549]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d6c200400, Size=4, Default__SKEL_Commetuveux_C Function /Engine/Transient.REINST_SKEL_Commetuveux_C_192:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.36.25:891][549]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d6c200450, Size=4, Default__SKEL_Commetuveux_C Function /Game/Map/Commetuveux.SKEL_Commetuveux_C:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.36.41:394][189]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BakcgroundTest_Sprite3)
+[2018.07.16-11.36.41:890][226]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.07.16-11.36.44:201][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.37.14:312][762]BlueprintLog: New page: Compile Commetuveux
+[2018.07.16-11.37.14:314][762]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d6c200450, Size=4
+[2018.07.16-11.37.14:314][762]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d46743438, Size=4, Default__SKEL_Commetuveux_C Function /Engine/Transient.REINST_SKEL_Commetuveux_C_194:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.37.14:317][762]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d46743208, Size=4, Default__Commetuveux_C Function /Game/Map/Commetuveux.Commetuveux_C:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.37.14:393][762]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d46743438, Size=4
+[2018.07.16-11.37.14:393][762]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d6c200400, Size=4
+[2018.07.16-11.44.36:722][748]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (NewPaperTileMap)
+[2018.07.16-11.44.37:096][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.16-11.44.42:064][244]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d74488150, Size=4, Default__SKEL_Commetuveux_C Function /Game/Map/Commetuveux.SKEL_Commetuveux_C:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.44.51:655][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d74488150, Size=4
+[2018.07.16-11.44.51:655][272]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d3e7b0e80, Size=4, Default__SKEL_Commetuveux_C Function /Engine/Transient.REINST_SKEL_Commetuveux_C_200:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.44.51:656][272]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d3e7b1e68, Size=4, Default__SKEL_Commetuveux_C Function /Game/Map/Commetuveux.SKEL_Commetuveux_C:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.44.52:448][365]BlueprintLog: New page: Compile Commetuveux
+[2018.07.16-11.44.52:450][365]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d3e7b1e68, Size=4
+[2018.07.16-11.44.52:450][365]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d3e7b1e68, Size=4, Default__SKEL_Commetuveux_C Function /Engine/Transient.REINST_SKEL_Commetuveux_C_202:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.44.52:453][365]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d46743208, Size=4
+[2018.07.16-11.44.52:453][365]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d3e7b2b90, Size=4, Commetuveux_C_0 Function /Engine/Transient.REINST_Commetuveux_C_204:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.44.52:454][365]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d660b3c70, Size=24, Default__Commetuveux_C Function /Game/Map/Commetuveux.Commetuveux_C:ExecuteUbergraph_Commetuveux
+[2018.07.16-11.44.52:641][365]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d3e7b1e68, Size=4
+[2018.07.16-11.44.52:641][365]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d3e7b0e80, Size=4
+[2018.07.16-11.44.59:601][146]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.44.59:638][146]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.44.59:638][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.44.59:638][146]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:44:59)
+[2018.07.16-11.44.59:638][146]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.44.59:656][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017985s)
+[2018.07.16-11.44.59:657][146]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.44.59:657][146]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2018.07.16-11.44.59:657][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.019249s)
+[2018.07.16-11.44.59:723][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d3e7b2b90, Size=4
+[2018.07.16-11.44.59:764][146]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.44.59:778][146]LogInit: FAudioDevice initialized.
+[2018.07.16-11.44.59:816][146]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.44.59:824][146]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.44.59
+[2018.07.16-11.44.59:834][146]LogWorld: Bringing up level for play took: 0.018057
+[2018.07.16-11.44.59:838][146]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux -0,592
+[2018.07.16-11.44.59:838][146]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.01:020][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.01:127][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.05:178][635]LogEditorViewport: Clicking on Actor (LMB): CanonSpawn_BP_C (CanonRadie_BP)
+[2018.07.16-11.45.07:205][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.45.12:870][267]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.45.12:894][267]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.12:894][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.45.12:894][267]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:45:12)
+[2018.07.16-11.45.12:894][267]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.45.12:913][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018245s)
+[2018.07.16-11.45.12:913][267]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.45.12:914][267]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.07.16-11.45.12:914][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.019238s)
+[2018.07.16-11.45.13:024][267]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.45.13:039][267]LogInit: FAudioDevice initialized.
+[2018.07.16-11.45.13:073][267]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.45.13:082][267]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.45.13
+[2018.07.16-11.45.13:092][267]LogWorld: Bringing up level for play took: 0.017623
+[2018.07.16-11.45.13:095][267]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux 0,665
+[2018.07.16-11.45.13:096][267]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.15:784][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.15:889][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.16:930][607]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.07.16-11.45.17:821][675]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.16-11.45.18:301][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.45.18:383][718]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.45.18:406][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.18:406][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.45.18:407][718]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:45:18)
+[2018.07.16-11.45.18:407][718]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.45.18:425][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018601s)
+[2018.07.16-11.45.18:426][718]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.45.18:426][718]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.07.16-11.45.18:426][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.019576s)
+[2018.07.16-11.45.18:536][718]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.45.18:551][718]LogInit: FAudioDevice initialized.
+[2018.07.16-11.45.18:589][718]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.45.18:598][718]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.45.18
+[2018.07.16-11.45.18:608][718]LogWorld: Bringing up level for play took: 0.018484
+[2018.07.16-11.45.18:611][718]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux 0,181
+[2018.07.16-11.45.18:611][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.25:449][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.25:500][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.25:907][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.45.39:058][509]BlueprintLog: New page: Compile CanonSpawn_BP
+[2018.07.16-11.45.39:078][509]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d6b7dc280, Size=128
+[2018.07.16-11.45.39:078][509]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d6605cb00, Size=128, Default__CanonSpawn_BP_C Function /Engine/Transient.REINST_CanonSpawn_BP_C_210:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.45.39:083][509]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d6605dd00, Size=128, Default__CanonSpawn_BP_C Function /Game/Piege/PiegeBP/CanonSpawn_BP.CanonSpawn_BP_C:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.45.43:367][903]BlueprintLog: New page: Compile CanonSpawn_BP
+[2018.07.16-11.45.43:385][903]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d6605dd00, Size=128
+[2018.07.16-11.45.43:385][903]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d4cd30f80, Size=128, CanonSpawn_BP_C_45 Function /Engine/Transient.REINST_CanonSpawn_BP_C_216:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.45.43:390][903]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d4cd30300, Size=128, Default__CanonSpawn_BP_C Function /Game/Piege/PiegeBP/CanonSpawn_BP.CanonSpawn_BP_C:ExecuteUbergraph_CanonSpawn_BP
+[2018.07.16-11.45.43:807][903]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d6605cb00, Size=128
+[2018.07.16-11.45.46:671][174]LogEditorViewport: Clicking on Actor (LMB): CanonSpawn_BP_C (CanonRadie_BP)
+[2018.07.16-11.45.48:205][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.45.48:277][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.45.48:308][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.48:308][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.45.48:308][302]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:45:48)
+[2018.07.16-11.45.48:308][302]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.45.48:326][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018218s)
+[2018.07.16-11.45.48:327][302]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.45.48:327][302]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.07.16-11.45.48:327][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.019212s)
+[2018.07.16-11.45.48:436][302]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.45.48:450][302]LogInit: FAudioDevice initialized.
+[2018.07.16-11.45.48:484][302]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.45.48:493][302]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.45.48
+[2018.07.16-11.45.48:503][302]LogWorld: Bringing up level for play took: 0.018823
+[2018.07.16-11.45.48:507][302]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux 0,076
+[2018.07.16-11.45.48:507][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.54:186][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.54:289][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.57:385][ 97]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.07.16-11.45.58:243][154]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.16-11.45.58:847][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.45.58:916][207]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.16-11.45.58:939][207]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.45.58:940][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.16-11.45.58:940][207]PIE: New page: PIE session: Commetuveux (16 juil. 2018 15:45:58)
+[2018.07.16-11.45.58:940][207]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Commetuveux
+[2018.07.16-11.45.58:959][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018915s)
+[2018.07.16-11.45.58:960][207]LogAIModule: Creating AISystem for world Commetuveux
+[2018.07.16-11.45.58:960][207]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2018.07.16-11.45.58:960][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Commetuveux.Commetuveux to /Game/Map/UEDPIE_0_Commetuveux.Commetuveux (0.019898s)
+[2018.07.16-11.45.59:067][207]LogInit: XAudio2 using 'Haut-parleurs (MV USB AUDIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.16-11.45.59:081][207]LogInit: FAudioDevice initialized.
+[2018.07.16-11.45.59:117][207]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.16-11.45.59:126][207]LogWorld: Bringing World /Game/Map/UEDPIE_0_Commetuveux.Commetuveux up for play (max tick rate 0) at 2018.07.16-13.45.59
+[2018.07.16-11.45.59:135][207]LogWorld: Bringing up level for play took: 0.017521
+[2018.07.16-11.45.59:139][207]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Commetuveux 0,708
+[2018.07.16-11.45.59:139][207]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.46.04:160][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.46.04:208][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Commetuveux.Commetuveux:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux' with GeneratedClass '/Game/Map/Commetuveux.Commetuveux_C' with ClassGeneratedBy '/Game/Map/Commetuveux.Commetuveux:PersistentLevel.Commetuveux'
+[2018.07.16-11.46.08:777][130]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (DetectPlayers)
+[2018.07.16-11.46.12:398][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-11.46.13:882][584]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.16-11.46.14:109][584]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.227 s
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: 
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: Stack: 
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000C0DFB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000C0B5AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000C0B6ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000BB513DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000B5A7B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000B50CC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000B4F577AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000B4F5AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000B5096E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000BF476057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000BF47BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000BF6AC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000BF4D0475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000BF4A8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000BF49B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.16-11.46.14:109][584]LogOutputDevice: Error: [Callstack] 0x00000000CFB1E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x00000000CFB11B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x00000000CFB2052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x00000000CFB0D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x00000000F8356CC1 USER32.dll!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x00000000F8356693 USER32.dll!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x00000000CFB21666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x0000000030275475 UE4Editor.exe!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x0000000030286BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x0000000030286C4A UE4Editor.exe!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x0000000030294177 UE4Editor.exe!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x0000000030295B87 UE4Editor.exe!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x00000000F8D23034 KERNEL32.DLL!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: [Callstack] 0x00000000F8ED1431 ntdll.dll!UnknownFunction []
+[2018.07.16-11.46.14:110][584]LogOutputDevice: Error: 
+[2018.07.16-11.46.14:114][584]LogStats:                SubmitErrorReport -  0.000 s
